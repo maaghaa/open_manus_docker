@@ -63,11 +63,4 @@ We welcome contributions! Feel free to:
 - 🛠️ Submit pull requests  
 - 📝 Open issues for suggestions or bugs  
 
----
-
-## 📄 License  
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
-
----
-
 Enjoy using **OpenManus** with Docker! 🚀🔥
