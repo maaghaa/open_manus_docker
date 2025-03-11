@@ -13,7 +13,7 @@ This repository provides a **Docker** and **Docker Compose** setup for running [
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-[git clone https://github.com/maaghaa/OpenManus-Docker.git](https://github.com/maaghaa/open_manus_docker.git)
+https://github.com/maaghaa/open_manus_docker.git
 cd OpenManus-Docker
 ```
 
