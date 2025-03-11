@@ -14,7 +14,7 @@ This repository provides a **Docker** and **Docker Compose** setup for running [
 ### **1️⃣ Clone the Repository**  
 ```bash
 https://github.com/maaghaa/open_manus_docker.git
-cd OpenManus-Docker
+cd open_manus_docker
 ```
 
 ### **2️⃣ Build and Run with Docker**  
